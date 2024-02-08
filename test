@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Testing Page</title>
+    </head>
+    <body>
+        <h1>Testing Page</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Page Name</th>
+                    <th>URL</th>
+                    <th>Validation</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>Spyro</th>
+                    <td><a href="https://samwagner5.github.io/Spyro.html</a></td>
+                    <td><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsamwagner5.github.io%2FSpyro.html">VALIDATE</a></td>
+                </tr>
+                <tr>
+                    <th>Amuse</th>
+                    <td><a href="amuse.html">https://samwagner5.github.io/amuse.html</a></td>
+                    <td><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsamwagner5.github.io%2Famuse.html">VALIDATE</a></td>
+                </tr>
+                <tr>
+                    <th>Inspire Me</th>
+                    <td><a href="amuse.html">https://samwagner5.github.io/inspire.html</a></td>
+                    <td><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fsamwagner5.github.io%2Finspire.html">VALIDATE</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
